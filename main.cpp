@@ -7,6 +7,8 @@ int wt[] = { 10, 20, 30 };
 int W = 50;
 int n = sizeof(val) / sizeof(val[0]);
 cout << knapSack(W, wt, val, n);
+system("pause>0");
 return 0;
+
 }
 // This code is contributed by rathbhupendra
